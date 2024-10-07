@@ -1,0 +1,9 @@
+Installations for the folder of backend!!!
+
+npm i mongoose 
+npm i express  
+npm i dotenv  //for file
+npm i cors  //to connect backend with frontend
+app.use(cors())  //app.js first line code
+npm i bcrypt  //to encrypt the password
+npm i concurrently  
